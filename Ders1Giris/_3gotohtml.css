@@ -1,0 +1,15 @@
+body {
+    background-color: yellow; color: blue;
+}
+div#denemeSatiri1 {
+    color: green;
+}
+#denemeSatiri2 {
+    color: brown;
+}
+/*
+spesifik bir etikete ulaşmak için id ve class kullanırız
+id için etiket#id
+class için etiket.class syntaxı var
+div tagını belirtmeyedebiliriz 7.satırdaki gibi
+*/
